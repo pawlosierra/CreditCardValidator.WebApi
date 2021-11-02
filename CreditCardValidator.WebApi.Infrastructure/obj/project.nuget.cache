@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "/osBpBfTjrmBaNmCtiXrUK2SYg1drpvDFZ3p+oBOsv2b/PAx3EQHJHQzvLWILpdLw/qK7gEZlsl+msBmKmEaCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JuanPawloSierra\\source\\repos\\Projects\\CreditCardValidator.WebApi\\CreditCardValidator.WebApi.Infrastructure\\CreditCardValidator.WebApi.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JuanPawloSierra\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\JuanPawloSierra\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\JuanPawloSierra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\JuanPawloSierra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\JuanPawloSierra\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\JuanPawloSierra\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\JuanPawloSierra\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\JuanPawloSierra\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

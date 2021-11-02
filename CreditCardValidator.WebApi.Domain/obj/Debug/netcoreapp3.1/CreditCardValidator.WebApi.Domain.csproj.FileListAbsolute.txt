@@ -1,0 +1,9 @@
+C:\Users\JuanPawloSierra\source\repos\Projects\CreditCardValidator.WebApi\CreditCardValidator.WebApi.Domain\bin\Debug\netcoreapp3.1\CreditCardValidator.WebApi.Domain.deps.json
+C:\Users\JuanPawloSierra\source\repos\Projects\CreditCardValidator.WebApi\CreditCardValidator.WebApi.Domain\bin\Debug\netcoreapp3.1\CreditCardValidator.WebApi.Domain.dll
+C:\Users\JuanPawloSierra\source\repos\Projects\CreditCardValidator.WebApi\CreditCardValidator.WebApi.Domain\bin\Debug\netcoreapp3.1\CreditCardValidator.WebApi.Domain.pdb
+C:\Users\JuanPawloSierra\source\repos\Projects\CreditCardValidator.WebApi\CreditCardValidator.WebApi.Domain\obj\Debug\netcoreapp3.1\CreditCardValidator.WebApi.Domain.csprojAssemblyReference.cache
+C:\Users\JuanPawloSierra\source\repos\Projects\CreditCardValidator.WebApi\CreditCardValidator.WebApi.Domain\obj\Debug\netcoreapp3.1\CreditCardValidator.WebApi.Domain.AssemblyInfoInputs.cache
+C:\Users\JuanPawloSierra\source\repos\Projects\CreditCardValidator.WebApi\CreditCardValidator.WebApi.Domain\obj\Debug\netcoreapp3.1\CreditCardValidator.WebApi.Domain.AssemblyInfo.cs
+C:\Users\JuanPawloSierra\source\repos\Projects\CreditCardValidator.WebApi\CreditCardValidator.WebApi.Domain\obj\Debug\netcoreapp3.1\CreditCardValidator.WebApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JuanPawloSierra\source\repos\Projects\CreditCardValidator.WebApi\CreditCardValidator.WebApi.Domain\obj\Debug\netcoreapp3.1\CreditCardValidator.WebApi.Domain.dll
+C:\Users\JuanPawloSierra\source\repos\Projects\CreditCardValidator.WebApi\CreditCardValidator.WebApi.Domain\obj\Debug\netcoreapp3.1\CreditCardValidator.WebApi.Domain.pdb
